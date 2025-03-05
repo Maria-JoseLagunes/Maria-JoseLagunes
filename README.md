@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maria-JoseLagunes
-- I’m a 1rst year PhD candidate at Brest, France working at LEMAR.
+- I’m a 2nd year PhD candidate at Sète, France
 - My PhD subjects are marine ecology and ecological modeling.
 - Title of my thesis is "SargaDEB – Contributions of DEB (Dynamic Energy Budget) bioenergetic modeling to the spatio-temporal dynamics of the three holopelagic morphotypes of the genus Sargassum"
 - 📫 Feel free to reach me at maria_jose.lagunes@ird.fr
